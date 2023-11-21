@@ -1,0 +1,100 @@
+[
+  {
+    "_id": "A101",
+    "title": "Propulsion Assignment",
+    "course": "RS101",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A102",
+    "title": "Combustion Analysis",
+    "description": "Multiple Modules",
+    "course": "RS101",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A103",
+    "title": "Nozzle Design Project",
+    "course": "RS101",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A104",
+    "title": "Nozzle Design Project2",
+    "course": "RS101",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A105",
+    "title": "Nozzle Design Project3",
+    "course": "RS101",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A201",
+    "title": "Aerodynamics Quiz",
+    "course": "RS102",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A202",
+    "title": "Flow Analysis",
+    "course": "RS102",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A203",
+    "title": "Heating Analysis",
+    "course": "RS102",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A204",
+    "title": "Nozzle Design Project",
+    "course": "RS102",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  },
+  {
+    "_id": "A301",
+    "title": "Structural Design Task",
+    "description": "Multiple Modules",
+    "course": "RS103"
+  },
+  {
+    "_id": "A302",
+    "title": "Orbital Calculations",
+    "course": "RS103",
+    "description": "Multiple Modules"
+  },
+  {
+    "_id": "A303",
+    "title": "Systems Engineering Exam",
+    "description": "Multiple Modules",
+    "course": "RS103"
+  },
+  {
+    "_id": "A304",
+    "title": "Nozzle Design Project",
+    "course": "RS103",
+    "description": "Multiple Modules",
+    "dueDate": "2023-10-19",
+    "points": "100"
+  }
+]
